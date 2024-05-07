@@ -4,18 +4,18 @@ This is a simple REST API built using [DummyJSON](https://dummyjson.com) to gene
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
--Node.js installed on your local machine. You can download and install it from here.
--Git installed on your local machine. You can download and install it from here.
+- Node.js installed on your local machine. You can download and install it from here.
+- Git installed on your local machine. You can download and install it from here.
 ##Installation
--Clone the repository to your local machine using the following command:
+- Clone the repository to your local machine using the following command:
 ```
 git clone https://github.com/ozguryurt/restapi.git
 ```
--Navigate to the project directory:
+- Navigate to the project directory:
 ```
 cd your-repository
 ```
--Install the dependencies:
+- Install the dependencies:
 ```
 npm install
 ```

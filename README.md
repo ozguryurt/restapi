@@ -24,13 +24,13 @@ To run the API locally, use the following command:
 ```
 node index.js
 ```
-The API will start running on `http://localhost:3000.`
+The API will start running on `http://localhost:3000`
 
 ## Endpoints
 Here are the endpoints available in this API:
 
-- GET /products: Retrieves a list of products.
-- GET /products/:param: Retrieves a specific product by ID or name.
-- POST /products: Adds a new product.
-- PUT /products/:id: Updates a specific product by ID.
-- DELETE /products/:id: Deletes a specific product by ID.
+- **GET /products**: Retrieves a list of products.
+- **GET /products/:param**: Retrieves a specific product by ID or name.
+- **POST /products**: Adds a new product.
+- **PUT /products/:id**: Updates a specific product by ID.
+- **DELETE /products/:id**: Deletes a specific product by ID.

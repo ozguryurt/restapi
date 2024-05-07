@@ -1,5 +1,5 @@
 # Simple ExpressJS API
-This is a simple REST API built using (DummyJSON)[https://dummyjson.com] to generate mock data. Below are the instructions on how to run it locally.
+This is a simple REST API built using [DummyJSON](https://dummyjson.com) to generate mock data. Below are the instructions on how to run it locally.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
